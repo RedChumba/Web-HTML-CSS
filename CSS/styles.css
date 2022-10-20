@@ -1,4 +1,17 @@
-img 
-{
-    display: none;
-  }
+img {
+  transition: all 1s ease;
+}
+
+img:hover {
+  /*Размытие*/
+/*filter: blur(20px);*/
+  /*Наложение оттенка*/
+/*filter: hue-rotate(250deg)*/
+  /*Чернобелое*/
+/*filter: grayscale(100%);*/
+  /*Осветление*/
+/*filter: brightness(150%);*/
+  /*Контраст*/
+/*filter: contrast(170%);*/
+}
+
