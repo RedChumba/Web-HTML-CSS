@@ -8,3 +8,5 @@ const arrSayHi = (name) => {
     console.log(`Привет, ${name}! Как твои дела?`);  
 }
 arrSayHi('Марат');
+
+
